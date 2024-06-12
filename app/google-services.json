@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692205885487",
+    "project_id": "testutspbo",
+    "storage_bucket": "testutspbo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692205885487:android:017ccbd182798b12d30eda",
+        "android_client_info": {
+          "package_name": "com.example.uts_pbo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-AekP2wG7up7BXjaUX4kA0z2uhHV44ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
