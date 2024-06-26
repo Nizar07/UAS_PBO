@@ -49,11 +49,12 @@
         android:layout_height="wrap_content"
         android:text="Tambah User"
         android:textSize="14sp"
-        android:paddingRight="10dp"
-        android:paddingLeft="10dp"
-        android:layout_marginLeft="15dp"
+        android:paddingRight="50dp"
+        android:paddingLeft="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
         android:textColor="@color/black"
-        android:background="#68D1E7"/>
+        android:background="@drawable/borderbutton"/>
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerViewUsers"
