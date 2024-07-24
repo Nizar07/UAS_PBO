@@ -8,7 +8,7 @@
     <!--    android:padding="8dp">-->
 
     <TextView
-        android:layout_width="380dp"
+        android:layout_width="320dp"
         android:layout_height="wrap_content"
         android:text="Informasi"
         android:textSize="24dp"

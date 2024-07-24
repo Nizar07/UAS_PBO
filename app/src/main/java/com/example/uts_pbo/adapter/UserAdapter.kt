@@ -30,6 +30,7 @@ class UserAdapter(
             binding.textViewPlate.text = "Plat Mobil : " + user.plate
             binding.buttonNotify.setOnClickListener {onNotifyClick(user)}
             binding.buttonDeleted.setOnClickListener {onDeleteClick(user)}
+
         }
     }
 
